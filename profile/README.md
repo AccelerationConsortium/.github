@@ -23,9 +23,10 @@
 https://youtu.be/rMh4oX2kzqM
 
 ## Code Overview
-- [Curated list of "awesome" self-driving labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)
-- Additional GitHub organizations:
-  - [AC-RAD: Robotics-assisted Accelerated Discovery](https://github.com/ac-rad)
+- 📝 [Community-curated list of "awesome" self-driving labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)
+
+## Affiliate GitHub Organizations
+- 🤖 [AC-RAD: Robotics-assisted Accelerated Discovery](https://github.com/ac-rad)
 
 ## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
