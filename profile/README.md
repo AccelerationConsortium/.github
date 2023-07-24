@@ -23,10 +23,10 @@
 https://youtu.be/rMh4oX2kzqM
 
 # Get Involved
-- [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
-- [Apply for a job](https://acceleration.utoronto.ca/news/were-hiring)
-- [Attend the Accelerate Conference](https://www.accelerate23.ca/)
-- [Hear about the latest updates](https://accelerationconsortium.substack.com/)
+- 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
+- 📋 [Apply for a job](https://acceleration.utoronto.ca/news/were-hiring)
+- 🎟️ [Attend the Accelerate Conference](https://www.accelerate23.ca/)
+- 📣 [Hear about the latest updates](https://accelerationconsortium.substack.com/)
 
 <!--- - 🌈 To get involved, - 👩‍💻 - 📫 acceleration@utoronto.ca -->
 
