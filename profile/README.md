@@ -22,7 +22,12 @@
 
 https://youtu.be/rMh4oX2kzqM
 
-# Get Involved
+## Code Overview
+- [Curated list of "awesome" self-driving labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)
+- Additional GitHub organizations:
+  - [AC-RAD: Robotics-assisted Accelerated Discovery](https://github.com/ac-rad)
+
+## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
 - 📋 [Apply for a job](https://acceleration.utoronto.ca/news/were-hiring)
 - 🎟️ [Attend the Accelerate Conference](https://www.accelerate23.ca/)
