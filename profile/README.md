@@ -35,5 +35,7 @@ https://youtu.be/rMh4oX2kzqM
 - 📣 [Hear about the latest updates](https://accelerationconsortium.substack.com/)
 - 🏛️ [Apply for grants and fellowships](https://acceleration.utoronto.ca/programs)
 
+_Maintainer_: [@sgbaird](https://github.com/sgbaird)
+
 <!--- - 🌈 To get involved, - 👩‍💻 - 📫 acceleration@utoronto.ca -->
 
