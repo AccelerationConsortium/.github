@@ -24,6 +24,7 @@ https://youtu.be/rMh4oX2kzqM
 
 ## Code Overview
 - 📝 [Community-curated list of "awesome" self-driving labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)
+- 📜 [Microcourses hosted by the Acceleration Consortium](https://github.com/AccelerationConsortium/ac-microcourses)
 
 ## Affiliate GitHub Organizations
 - 🤖 [AC-RAD: Robotics-assisted Accelerated Discovery](https://github.com/ac-rad)
