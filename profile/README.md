@@ -28,6 +28,7 @@ https://youtu.be/rMh4oX2kzqM
 
 ## Affiliate GitHub Organizations
 - 🤖 [AC-RAD: Robotics-assisted Accelerated Discovery](https://github.com/ac-rad)
+- 📜 [AC-Classroom: An organization for managing GitHub Classroom assignment templates](https://github.com/AC-Classroom)
 
 ## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
