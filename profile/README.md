@@ -24,16 +24,18 @@ https://youtu.be/rMh4oX2kzqM
 
 ## Code Overview
 - 📝 [Community-curated list of "awesome" self-driving labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)
-- 📜 [Microcourses hosted by the Acceleration Consortium](https://github.com/AccelerationConsortium/ac-microcourses)
+- 📜 [AC Microcourses](https://github.com/AccelerationConsortium/ac-microcourses)
+- 🏢 [AC Training Lab](https://ac-training-lab.readthedocs.io/en/latest/)
 
 ## Affiliate GitHub Organizations
 - 🤖 [AC-RAD: Robotics-assisted Accelerated Discovery](https://github.com/ac-rad)
 - 📜 [AC-Classroom: An organization for managing GitHub Classroom assignment templates](https://github.com/AC-Classroom)
+- 👨‍💻 [AC-BO-Hackathon: An organization for the Bayesian Optimization Hackathon for Chemistry and Materials](https://github.com/AC-BO-Hackathon)
 
 ## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
 - 📋 [Apply for a job](https://acceleration.utoronto.ca/news/were-hiring)
-- 🎟️ [Attend the Accelerate Conference](https://www.accelerate23.ca/)
+- 🎟️ [Attend the Accelerate '24 Conference](https://www.accelerate24.ca/)
 - 📣 [Hear about the latest updates](https://accelerationconsortium.substack.com/)
 - 🏛️ [Apply for grants and fellowships](https://acceleration.utoronto.ca/programs)
 
