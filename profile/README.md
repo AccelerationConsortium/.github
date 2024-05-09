@@ -28,9 +28,9 @@ https://youtu.be/rMh4oX2kzqM
 - 🏢 [AC Training Lab](https://ac-training-lab.readthedocs.io/en/latest/)
 
 ## Affiliate GitHub Organizations
-- 🤖 [AC-RAD: Robotics-assisted Accelerated Discovery](https://github.com/ac-rad)
-- 📜 [AC-Classroom: An organization for managing GitHub Classroom assignment templates](https://github.com/AC-Classroom)
-- 👨‍💻 [AC-BO-Hackathon: An organization for the Bayesian Optimization Hackathon for Chemistry and Materials](https://github.com/AC-BO-Hackathon)
+- 🤖 [AC-RAD](https://github.com/ac-rad): Robotics-assisted Accelerated Discovery
+- 📜 [AC-Classroom](https://github.com/AC-Classroom): An organization for managing GitHub Classroom assignment templates
+- 👨‍💻 [AC-BO-Hackathon](https://github.com/AC-BO-Hackathon): An organization for the Bayesian Optimization Hackathon for Chemistry and Materials
 
 ## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
