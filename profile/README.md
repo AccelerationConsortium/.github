@@ -31,7 +31,11 @@ https://youtu.be/rMh4oX2kzqM
 - 🤖 [AC-RAD](https://github.com/ac-rad): Robotics-assisted Accelerated Discovery
 - 📜 [AC-Classroom](https://github.com/AC-Classroom): An organization for managing GitHub Classroom assignment templates
 - 👨‍💻 [AC-BO-Hackathon](https://github.com/AC-BO-Hackathon): An organization for the Bayesian Optimization Hackathon for Chemistry and Materials
-- 💧 [AC-Formulations-SDL](https://github.com/AC-Formulations-SDL)
+
+## SDLs
+In addition to repos hosted within this organization, some code is hosted on lab-specific organizations.
+
+- 💧 [AC-Formulations-SDL](https://github.com/AC-Formulations-SDL): The AC formulations self-driving lab (SDL5)
 
 ## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
