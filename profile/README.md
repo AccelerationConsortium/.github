@@ -36,6 +36,7 @@ https://youtu.be/rMh4oX2kzqM
 In addition to repos hosted within this organization, some code is hosted on lab-specific organizations.
 
 - 💧 [AC-Formulations-SDL](https://github.com/AC-Formulations-SDL): The AC formulations self-driving lab (SDL5)
+- 🫀 [AC-SDL6](https://github.com/AC-SDL6): The AC human organ mimicry self-driving lab (SDL6)
 
 ## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
