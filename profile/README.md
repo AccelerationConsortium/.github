@@ -34,17 +34,17 @@ You can use [custom properties](https://docs.github.com/en/organizations/managin
 
 | Lab Code | Description |
 |----------|-------------|
-| [`ac-general`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Aac-general+sort%3Astars) | General-purpose tools and resources |
-| [`sdl-dev`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl-dev+sort%3Astars) | Training and Development Lab |
-| [`sdl0`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl0+sort%3Astars) | AI and Automation |
-| [`sdl1`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl1+sort%3Astars) | Inorganic |
-| [`sdl2`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl2+sort%3Astars) | Organic |
-| [`sdl3`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl3+sort%3Astars) | Medicinal chemistry |
-| [`sdl4`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl4+sort%3Astars) | Polymers |
-| [`sdl5`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl5+sort%3Astars) | Formulations |
-| [`sdl6`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl6+sort%3Astars) | Human organ mimicry |
-| [`sdl7-hein`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-hein+sort%3Astars) | Scale-up |
-| [`sdl7-berlinguette`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-berlinguette+sort%3Astars) | Scale-up |
+| [`ac-general`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Aac-general+sort%3Astars) | 🌐 General-purpose tools and resources |
+| [`sdl-dev`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl-dev+sort%3Astars) | 💡 Training and Development Lab |
+| [`sdl0`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl0+sort%3Astars) | 🤖 AI and Automation |
+| [`sdl1`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl1+sort%3Astars) | ⚛️ Inorganic |
+| [`sdl2`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl2+sort%3Astars) | ⌬ Organic small molecules |
+| [`sdl3`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl3+sort%3Astars) | 💊 Medicinal chemistry |
+| [`sdl4`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl4+sort%3Astars) | 🪢 Polymers |
+| [`sdl5`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl5+sort%3Astars) | 💧 Formulations |
+| [`sdl6`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl6+sort%3Astars) | 🫀 Human organ mimicry |
+| [`sdl7-hein`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-hein+sort%3Astars) | 📈 Scale-up |
+| [`sdl7-berlinguette`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-berlinguette+sort%3Astars) | 📈 Scale-up |
 
 You can also search for multiple criteria: e.g., repos with [both `ac-general` and `sdl-dev` property values](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Aac-general+props.lab-designation%3Asdl-dev+sort%3Astars).
 
@@ -53,6 +53,10 @@ More information about each lab is available on the [AC's facilities webpage](ht
 ## Getting Started
 
 If you're just starting out in the self-driving lab space, consider having a look at our [community-curated list of "awesome" self-driving lab resources](https://github.com/AccelerationConsortium/awesome-self-driving-labs), [community forum](https://accelerated-discovery.org), and [microcourse program](https://ac-microcourses.readthedocs.io).
+
+<!--- alternative emojis
+🧪⚛︎⌬👩🏻‍🔬⚗️🧪🥼 ⚛️
+--->
 
 <!---
 TODO: Once we have more teams set up (including deciding whether e.g., sdl0 would have ac-staff as a parent team), we can link to those as well. Maybe have `[repos] [team]` within the bulleted list or similar
