@@ -46,6 +46,8 @@ You can use [custom properties](https://docs.github.com/en/organizations/managin
 | [`sdl7-hein`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-hein+sort%3Astars) | Scale-up |
 | [`sdl7-berlinguette`](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-berlinguette+sort%3Astars) | Scale-up |
 
+You can also search for multiple criteria: e.g., repos with [both `ac-general` and `sdl-dev` property values](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Aac-general+props.lab-designation%3Asdl-dev+sort%3Astars).
+
 More information about each lab is available on the [AC's facilities webpage](https://acceleration.utoronto.ca/facilities).
 
 ## Getting Started
