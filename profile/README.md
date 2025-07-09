@@ -22,22 +22,51 @@
 
 https://youtu.be/rMh4oX2kzqM
 
+Here, we host 
+
 ## Code Overview
 - 📝 [Community-curated list of "awesome" self-driving labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)
 - 📜 [AC Microcourses](https://github.com/AccelerationConsortium/ac-microcourses)
 - 🏢 [AC Training Lab](https://ac-training-lab.readthedocs.io/en/latest/)
+
+## SDLs
+> NOTE: We are in the process of centralizing software from several lab-specific organizations (SDLs [3](https://github.com/AC-MedChem-SDL), [5](https://github.com/AC-Formulations-SDL), [6](https://github.com/AC-SDL6), [7-Hein](https://gitlab.com/heingroup), [ac-rad](https://github.com/ac-rad)) into this centralized GitHub organization.
+
+You can use [custom properties](https://docs.github.com/en/organizations/managing-organization-settings/managing-custom-properties-for-repositories-in-your-organization) to search and filter for repositories associated with specific SDLs. Note that we use a "multi-select" custom property, so a single repo may be associated with multiple property values. See for example, [all repositories with the `sdl0` custom property](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Aac-general).
+
+To quickly search within each of these properties, see the following links:
+- [SDL-Dev: Training and Development Lab](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl-dev+sort%3Astars)
+- [SDL0: AI and Automation](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl0+sort%3Astars)
+- [SDL1: Inorganic](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl1+sort%3Astars)
+- [SDL2: Organic](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl2+sort%3Astars)
+- [SDL3: Medicinal chemistry](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl3+sort%3Astars)
+- [SDL4: Polymers](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl4+sort%3Astars)
+- [SDL5: Formulations](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl5+sort%3Astars)
+- [SDL6: Human organ mimicry](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl6+sort%3Astars)
+- [SDL7-Hein: Scale-up](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-hein+sort%3Astars)
+- [SDL7-Berlinguette: Scale-up](https://github.com/orgs/AccelerationConsortium/repositories?q=props.lab-designation%3Asdl7-berlinguette+sort%3Astars)
+
+<!--- TODO: Once we have more teams set up (including deciding whether e.g., sdl0 would have ac-staff as a parent team), we can link to those as well. Maybe have `[repos] [team]` within the bulleted list or similar
+
+More information about each lab is available on the [AC's facilities webpage](https://acceleration.utoronto.ca/facilities).
+
+<!---
 
 ## Affiliate GitHub Organizations
 - 🤖 [AC-RAD](https://github.com/ac-rad): Robotics-assisted Accelerated Discovery
 - 📜 [AC-Classroom](https://github.com/AC-Classroom): An organization for managing GitHub Classroom assignment templates
 - 👨‍💻 [AC-BO-Hackathon](https://github.com/AC-BO-Hackathon): An organization for the Bayesian Optimization Hackathon for Chemistry and Materials
 
-## SDLs
-In addition to repos hosted within this organization, some code is hosted on lab-specific organizations.
+--->
+
+<!--- 
 
 - 💧 [AC-Formulations-SDL](https://github.com/AC-Formulations-SDL): The AC formulations self-driving lab (SDL5)
 - 💊 [AC-MedChem-SDL](https://github.com/AC-MedChem-SDL): The AC medicinal chemistry self-driving laboratory (SDL3)
 - 🫀 [AC-SDL6](https://github.com/AC-SDL6): The AC human organ mimicry self-driving lab (SDL6)
+- 🧪 [Hein Lab](https://gitlab.com/heingroup): Some AC-funded code from Jason Hein's lab at UBC is hosted on gitlab (SDL7-Hein)
+
+--->
 
 ## Get Involved
 - 👥 [Become a member](https://zr2z766pxls.typeform.com/to/Iter1eZR)
